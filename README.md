@@ -29,3 +29,5 @@ Git, Linux, Azure AI Foundry, VS Code
 ---
 
 *Thanks for visiting my profile! If you’d like to connect, collaborate, or just have a chat about tech, feel free to reach out.*
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AI-vish.AI-vish&left_text=Profile%20Views&left_color=black&right_color=blue)](https://github.com/AI-vish)
