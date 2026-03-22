@@ -1,4 +1,4 @@
-# ⚛Vishal Thangakumar
+# </> Vishal Thangakumar
 
 I am currently focused on enhancing my skills in Machine Learning and Data Structures & Algorithms. I am eager to collaborate on AI and ML projects, and I am particularly interested in deepening my understanding of Deep Learning algorithms. My learning journey currently includes Large Language Models (LLMs), Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL).
 
