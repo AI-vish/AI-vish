@@ -15,16 +15,41 @@ Fun fact: I do Calisthenics.
 
 ---
 
-## Technical Skills
+**Languages and Tools:** 
 
-**Languages:**  
-Python, C++, HTML/CSS, Astro, Typescript
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=flat)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&style=flat)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=flat)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=flat)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=flat)&nbsp;&nbsp;
 
-**Frameworks & Libraries:**  
-Pandas, Numpy, Seaborn, Scikit-learn, Tensorflow, Jupyter, Streamlit, LangChain, Matplotlib, Astro, Keras, Flask, OpenCV, Pillow
+![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&style=flat)&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=flat)&nbsp;&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-black?logo=apache-spark&style=flat)&nbsp;&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?logo=scikit-learn&style=flat)&nbsp;&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=flat)&nbsp;&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-black?logo=keras&style=flat)&nbsp;&nbsp;
+![NLTK](https://img.shields.io/badge/-NLTK-black?logo=python&style=flat)&nbsp;&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?logo=opencv&style=flat)&nbsp;&nbsp;
 
-**Developer Tools:**  
-Git, Linux, Azure AI Foundry, VS Code
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?logo=python&style=flat)&nbsp;&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?logo=jupyter&style=flat)&nbsp;&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit&style=flat)&nbsp;&nbsp;
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?logo=fastapi&style=flat)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=flat)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=flat)&nbsp;&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=flat)&nbsp;&nbsp;
+
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-black?logo=microsoft-azure&style=flat)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=flat)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=flat)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)&nbsp;&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?logo=visual-studio-code&style=flat)&nbsp;&nbsp;
+
+![RAG](https://img.shields.io/badge/-RAG-black?logo=openai&style=flat)&nbsp;&nbsp;
+![GNU Radio](https://img.shields.io/badge/-GNU%20Radio-black?logo=gnuradio&style=flat)&nbsp;&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-black?logo=latex&style=flat)&nbsp;&nbsp;
 
 ---
 
